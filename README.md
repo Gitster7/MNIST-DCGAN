@@ -1,4 +1,4 @@
-# Deep Convolutional GAN (DCGAN)
+# MNIST - Deep Convolutional GAN (DCGAN)
 DCGAN, or Deep Convolutional GAN, is a generative adversarial network architecture that uses convolution layers (Discriminator) and transposed convolution layers (Generator). Batch Normalization is used in both, the Generator and Discriminator except for the final layer. ReLU activation is used in the generator for all layers except for the output layer, which uses Tanh activation. LeakyReLU activation is used in the discriminator for all layers.
 
 
