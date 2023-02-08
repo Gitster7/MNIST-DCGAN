@@ -16,3 +16,7 @@ DCGAN, or Deep Convolutional GAN, is a generative adversarial network architectu
 
 ## Results
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673609307416/fdf667c0-5bf7-452d-953e-4a30ab6c9d23.png?auto=compress,format&format=webp" alt="Results">
+
+## Additional
+
+To know more about the project visit my blog on DCGAN at: https://omkarvatsa.hashnode.dev/deep-convolutional-gan-dcgan
