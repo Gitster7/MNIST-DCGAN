@@ -7,4 +7,6 @@
 <ul>
 <li>The generator learns to generate plausible data. The generated instances become negative training examples for the discriminator.</li>
 <li>The discriminator learns to distinguish the generator's fake data from real data. The discriminator penalizes the generator for producing implausible results.</li>
-<\ul>
+</ul>
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673604003083/0b631935-aad5-497c-a73f-578cabeaf809.png?auto=compress,format&format=webp" alt="DCGAN">
